@@ -1,5 +1,7 @@
 **node output:**
-![node output](https://github.com/user-attachments/assets/798ffbd3-7f4a-440d-a6c6-091686165a53)
+![node output](https://github.com/user-attachments/assets/5c76cb5b-1763-49c9-a5bd-b65cbb522485)
+
 
 **nignix output:**
-![nignix output](https://github.com/user-attachments/assets/8388ccda-77a8-478b-880c-eb0132f78432)
+![nignix output](https://github.com/user-attachments/assets/01142afe-d306-4ae2-a7bd-0713251f818b)
+
